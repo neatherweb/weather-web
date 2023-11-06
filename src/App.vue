@@ -1,5 +1,5 @@
 <script setup>
-import DataManager from './components/DataManager.vue'
+// import DataManager from './components/DataManager.vue'
 import TheWeather from './components/TheWeather.vue';
 
 </script>
@@ -11,7 +11,7 @@ import TheWeather from './components/TheWeather.vue';
   </header>
 
   <main>
-    <DataManager/>
+    <!-- <DataManager/> -->
     <TheWeather/>
   </main>
 </template>
